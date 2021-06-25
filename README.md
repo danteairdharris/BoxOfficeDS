@@ -34,6 +34,7 @@ Here are some tasks that were tackled in the cleaning process:
 
 ## Model
 The model utilizes python library SciKit Learn to build a Random Forest Regression and Linear Regression trained on the aforementioned dataset.
+* The features passed to the model include Release Month, Budget, Box Office Opening, and Rating. 
 * The dataset is split into train and test sets with 20% of the data reserved for testing and 80% for training. 
 * A grid search was used to find the optimal parameter set for the Random Forest Regression.
 * The model determined the RF regression performed better with a MAE of ~ $45 Million
