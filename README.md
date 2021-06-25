@@ -24,6 +24,6 @@ Here are some tasks that were tackled in the cleaning process:
 * Simple Feature Engineering to Extract release month from Release Date date-time object
 
 ## Exploratory Data Analysis
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/danteairdharris/BoxOfficeDS/blob/master/totalbudget.png)
+![alt text](https://github.com/danteairdharris/BoxOfficeDS/blob/master/releasemonth.png)
+![alt text](https://github.com/danteairdharris/BoxOfficeDS/blob/master/heatmap.png)
