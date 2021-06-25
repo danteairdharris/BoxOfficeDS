@@ -2,9 +2,10 @@
 ## Project Overview
 This simple WebApp productionizes a Box Office predictive model that runs underneath it to predict the Total Box Office of a film with a mean absolute error of ~ $45 Million. Production companies and individuals can use this model to evaluate the performance of a film at the Box Office.
 
-* How to use the Web App:
-In the input text field, paste in a wikipedia url of the film in question. The model will predict its Gross Box Office and display it, the current Box Office, and a performance evaluation based on those two figures.
-**The model will not work if the movie has not finished its opening weekend or it does not have a release date, budget, or box Office visible on Wikipedia.**
+### How to use the Web App:
+* In the input text field, paste in a wikipedia url of the film in question. The model will predict its Gross Box Office and display it, the current Box Office, and a performance evaluation based on those two figures.
+* **The model will not work if the movie has not finished its opening weekend or it does not have a release date, budget, or box Office visible on Wikipedia.**
+![alt text](https://github.com/danteairdharris/BoxOfficeDS/blob/master/howto.png)
 
 ## Data Collection
 I used Beautiful Soup python library to built a script to scrape the relevant data from Wikipedia and Box Office Mojo. With each movie, the following data was scraped(if applicable):
