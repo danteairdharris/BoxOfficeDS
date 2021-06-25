@@ -15,3 +15,15 @@ I used Beautiful Soup python library to built a script to scrape the relevant da
 * Box Office
 * Opening Box Office
 * MPAA Rating 
+
+## Data Cleaning
+Here are some tasks that were tackled in the cleaning process:
+* Converted Release Date to python date-time object 
+* Parsed Budget anf Box Office data to ensure a numeric representation of the money.
+* Parsed Strings to strip whitespace and unwanted characters and compound features with multiple values into lists.
+* Simple Feature Engineering to Extract release month from Release Date date-time object
+
+## Exploratory Data Analysis
+![alt text]()
+![alt text]()
+![alt text]()
