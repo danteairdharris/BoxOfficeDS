@@ -3,7 +3,7 @@
 This simple WebApp productionizes a Box Office predictive model that runs underneath it to predict the Total Box Office of a film with a mean absolute error of ~ $45 Million. Production companies and individuals can use this model to evaluate the performance of a film at the Box Office.
 
 ### How to use the Web App:
-* Paste in a wikipedia url of the film in question. Example: https://en.wikipedia.org/wiki/Avengers:_Endgame. The model will predict its Gross Box Office and display it, the current Box Office, and a performance evaluation based on those two figures.
+* Paste in a wikipedia url of the film in question. (Example: https://en.wikipedia.org/wiki/Avengers:_Endgame) The model will predict its Gross Box Office and display it, the current Box Office, and a performance evaluation based on those two figures.
 ![alt text](https://github.com/danteairdharris/BoxOfficeDS/blob/master/howto.png)
 
 ## Data Collection
