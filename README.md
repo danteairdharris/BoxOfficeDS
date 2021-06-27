@@ -1,4 +1,4 @@
-# Box Office Predictive Model
+# [Box Office Predictive Model](https://box-office-predictive-model.herokuapp.com/)
 ## Project Overview
 This simple WebApp productionizes a Box Office predictive model that runs underneath it to predict the Total Box Office of a film with a mean absolute error of ~ $45 Million. Production companies and individuals can use this model to evaluate the performance of a film at the Box Office.
 
@@ -40,4 +40,4 @@ The model utilizes python library SciKit Learn to build a Random Forest Regressi
 * The model determined the RF regression performed better with a MAE of ~ $45 Million
 
 ## Productionization
-Used Streamlit to quickly and cleanly deploy the model for use [Here](https://box-office-predictive-model.herokuapp.com/).
+Used Streamlit to quickly and cleanly deploy the model for use.
